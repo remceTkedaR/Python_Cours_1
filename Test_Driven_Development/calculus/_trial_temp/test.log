@@ -1,0 +1,6 @@
+2020-07-04 22:52:23+0200 [-] Log opened.
+2020-07-04 22:52:23+0200 [-] --> calculus.test.test_base_1.TestCalculation.test_add <--
+2020-07-04 22:52:23+0200 [-] --> calculus.test.test_base_1.TestCalculation.test_divide <--
+2020-07-04 22:52:23+0200 [-] --> calculus.test.test_base_1.TestCalculation.test_modulo <--
+2020-07-04 22:52:23+0200 [-] --> calculus.test.test_base_1.TestCalculation.test_multiply <--
+2020-07-04 22:52:23+0200 [-] --> calculus.test.test_base_1.TestCalculation.test_subtract <--
