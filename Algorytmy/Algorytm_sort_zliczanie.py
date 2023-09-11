@@ -19,7 +19,7 @@ Max_Data = Z  # Ustawienie zakresu max listy
 def input_number():
 
     for i in range(N):
-        Data[i] = random.randint(0, Z)  # generowanie losowych liczb całkowitych zpodanego zakresu
+        Data[i] = random.randint(0, Z)  # generowanie losowych liczb całkowitych z podanego zakresu
                                      #a[i] = int(input("Podaj liczbę z zakresu 0-99: "))
         if Data[i] < 0:
             Data[i] = 0
